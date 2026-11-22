@@ -12,7 +12,7 @@ Say hi on [X](https://x.com/deepujain).
 
 ### 🛠️ Things I make
 
-| | |
+| Project | What it does |
 |---|---|
 | **[Spark](https://1xaispark.com/)** | Runs fuel, LPG and distribution businesses day to day: sales, stock, payments, payroll and field teams, on web and mobile. |
 | **[merge-o-matic](https://github.com/deepujain/merge-o-matic)** | Type a GitHub username and get its merged PRs printed as a store receipt. |
