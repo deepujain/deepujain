@@ -3,6 +3,7 @@
 [![X @deepujain](https://img.shields.io/badge/@deepujain-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deepujain)
 [![Spark](https://img.shields.io/badge/Spark-4F46E5?style=for-the-badge&logo=lightning&logoColor=white)](https://1xaispark.com/about)
 [![Merged PRs](https://img.shields.io/badge/merged_PRs-300%2B-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3Adeepujain+is%3Amerged)
+[![Research citations](https://img.shields.io/badge/research_citations-214-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=c--j8zcAAAAJ)
 
 Entrepreneur and engineer. These days I live where AI agents meet real systems: the sandboxes they run in, the models they route to, how we evaluate them, and whether the skills we hand them are safe.
 Say hi on [X](https://x.com/deepujain).
@@ -21,7 +22,7 @@ Say hi on [X](https://x.com/deepujain).
 #### Patents and research
 
 - **[Patents](https://patents.google.com/?inventor=Deepak+Kumar+Vasthimal)** - 18 granted US patents from eBay and Yahoo across streaming data processing, adaptive data platforms, secure device handoff, payments and search.
-- **[Research](https://scholar.google.com/citations?user=c--j8zcAAAAJ)** - Papers and talks at IEEE/ACM BDCAT, IEEE BigDataSecurity, IEEE/ACM UCC, IEEE SC2, IEEE CloudCom, Springer CLOUD, the ORSUM workshop at ACM RecSys, GrafanaCon and the Yahoo Technical Conference on deep learning for e-commerce search, ad targeting, A/B test reporting and big data platforms at scale. 214 citations.
+- **[Research](https://scholar.google.com/citations?user=c--j8zcAAAAJ)** - Papers and talks at IEEE/ACM BDCAT, IEEE BigDataSecurity, IEEE/ACM UCC, IEEE SC2, IEEE CloudCom, Springer CLOUD, the ORSUM workshop at ACM RecSys, GrafanaCon and the Yahoo Technical Conference on deep learning for e-commerce search, ad targeting, A/B test reporting and big data platforms at scale.
 
 #### Open source I contribute to
 
