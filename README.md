@@ -41,4 +41,4 @@ Say hi on [X](https://x.com/deepujain).
 #### Patents and research
 
 - **[Patents](https://patents.google.com/?inventor=Deepak+Kumar+Vasthimal)** - 18 granted US patents from eBay and Yahoo across streaming data processing, adaptive data platforms, secure device handoff, payments and search.
-- **[Research](https://scholar.google.com/citations?user=c--j8zcAAAAJ)** - Papers at IEEE/ACM BDCAT, IEEE BigDataSecurity, IEEE/ACM UCC, IEEE SC2 and IEEE CloudCom on deep learning for e-commerce search, A/B test reporting and big data platforms at scale. 214 citations.
+- **[Research](https://scholar.google.com/citations?user=c--j8zcAAAAJ)** - Papers and talks at IEEE/ACM BDCAT, IEEE BigDataSecurity, IEEE/ACM UCC, IEEE SC2, IEEE CloudCom, Springer CLOUD, the ORSUM workshop at ACM RecSys, GrafanaCon and the Yahoo Technical Conference on deep learning for e-commerce search, ad targeting, A/B test reporting and big data platforms at scale. 214 citations.
