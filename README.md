@@ -1,33 +1,53 @@
-### Hey, I'm Deepak (DJ)
+<h2>Deepak Jain (DJ)</h2>
 
-Entrepreneur and engineer. I build agentic engineering tools and small, delightful apps, and I spend a lot of my time fixing real bugs in open source projects I use.
+[![X @deepujain](https://img.shields.io/badge/@deepujain-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deepujain)
+[![Spark](https://img.shields.io/badge/1xaispark.com-4F46E5?style=for-the-badge&logo=lightning&logoColor=white)](https://1xaispark.com/)
+[![Merged PRs](https://img.shields.io/badge/merged_PRs-300%2B-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3Adeepujain+is%3Amerged)
 
-Most recently I've been working on AI agents end to end: sandboxed agent runtimes, inference routing, agent evaluation, and the security of agent skills. Over 300 merged pull requests across agent, data and infrastructure projects.
+Entrepreneur and engineer. These days I live where AI agents meet real systems: the sandboxes they run in, the models they route to, how we evaluate them, and whether the skills we hand them are safe. When something I use is broken, I would rather send the fix than file the bug.
 
-#### Building
+Say hi on [X](https://x.com/deepujain).
 
-- **[Spark](https://1xaispark.com/)** - Operations platform for fuel, LPG and distribution businesses: sales, stock, payments, payroll and field teams on web and mobile.
-- **[merge-o-matic](https://github.com/deepujain/merge-o-matic)** [![GitHub stars](https://img.shields.io/github/stars/deepujain/merge-o-matic?style=flat&color=gold)](https://github.com/deepujain/merge-o-matic) - Your merged pull requests, printed as a store receipt.
-- **[hodl](https://github.com/deepujain/hodl)** [![GitHub stars](https://img.shields.io/github/stars/deepujain/hodl?style=flat&color=gold)](https://github.com/deepujain/hodl) - Keeps your Mac awake overnight so coding agents keep working, lid open or closed, and lets go when they finish.
-- **[sip](https://github.com/deepujain/sip)** [![GitHub stars](https://img.shields.io/github/stars/deepujain/sip?style=flat&color=gold)](https://github.com/deepujain/sip) - Finish your water bottle on time, or your Mac takes a water break.
-- **[whereditgo](https://github.com/deepujain/whereditgo)** [![GitHub stars](https://img.shields.io/github/stars/deepujain/whereditgo?style=flat&color=gold)](https://github.com/deepujain/whereditgo) - Every screenshot, printed into a little pile in the corner of your Mac's screen.
-- **[Casa de Gema](https://github.com/deepujain/casadegema)** [![GitHub stars](https://img.shields.io/github/stars/deepujain/casadegema?style=flat&color=gold)](https://github.com/deepujain/casadegema) - A little garden of hidden gems: a single-file watercolor Canvas game.
-- **[nvidiagpubeat](https://github.com/eBay/nvidiagpubeat)** [![GitHub stars](https://img.shields.io/github/stars/eBay/nvidiagpubeat?style=flat&color=gold)](https://github.com/eBay/nvidiagpubeat) - Elastic Beat that monitors NVIDIA GPUs, listed among the [Elastic community Beats](https://github.com/elastic/beats).
+---
 
-#### Contributing to
+### 🛠️ Things I make
 
-- **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NemoClaw?style=flat&color=gold)](https://github.com/NVIDIA/NemoClaw) - Over 160 merged PRs: onboarding that recommends models and picks the right local image, OpenShell sandbox and Podman gateway lifecycle fixes, Ollama proxy health, OpenTofu provider docs, and tested version pins attached to releases.
-- **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=flat&color=gold)](https://github.com/NVIDIA/SkillSpector) - Agent skill security scanning: hooks declared in Claude plugins, settings keys that run commands or reroute traffic, bytecode in virtual environments, SARIF severity output, normalized MCP snapshot comparison, and fewer false positives in shell and YARA rules.
-- **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** [![GitHub stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=flat&color=gold)](https://github.com/UKGovernmentBEIS/inspect_ai) - Evaluation correctness: OpenAI cache token usage, Google batch system instructions, chain-of-thought templates, eval overrides leaking into reused tasks, and Windows log and path handling.
-- **[Inspect TS](https://github.com/meridianlabs-ai/ts-mono)** [![GitHub stars](https://img.shields.io/github/stars/meridianlabs-ai/ts-mono?style=flat&color=gold)](https://github.com/meridianlabs-ai/ts-mono) and **[Inspect Petri](https://github.com/meridianlabs-ai/inspect_petri)** [![GitHub stars](https://img.shields.io/github/stars/meridianlabs-ai/inspect_petri?style=flat&color=gold)](https://github.com/meridianlabs-ai/inspect_petri) - Linear-time listing diffs and query caches in the log viewer, evidence export from the Messages tab, and rescoring with a judge override.
-- **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=flat&color=gold)](https://github.com/apache/airflow) - Mark-failed for removed tasks, Gantt date filters for mapped tasks and task groups, stale Dag tags in the public API, the FAB reset-password CLI, and scheduling and template documentation.
-- **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=flat&color=gold)](https://github.com/apache/superset) - Restored native filter scopes, label colors before charts mount, stacked bars on log axes, BigInt formatting, and caller-scoped PNG chart previews over MCP.
-- **[OpenClaw](https://github.com/openclaw/openclaw)** [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=gold)](https://github.com/openclaw/openclaw) - Postgres migration in minutes instead of hours over a network link, inbound Twilio MMS photos for the agent, device-code sign-in, warm CLI session retirement before compaction, and a reasoning default for agents.
-- **[ClawHub](https://github.com/openclaw/clawhub)** [![GitHub stars](https://img.shields.io/github/stars/openclaw/clawhub?style=flat&color=gold)](https://github.com/openclaw/clawhub) - Per-skill pinning, exact and paginated skill discovery, exposed secrets flagged in skill docs, large ClawPack publishing, and fewer false install-source and env warnings.
-- **[Apache Hadoop](https://github.com/apache/hadoop)** [![GitHub stars](https://img.shields.io/github/stars/apache/hadoop?style=flat&color=gold)](https://github.com/apache/hadoop) - DiskBalancer plan tolerance, DataNode startup with invalid scanner threads, S3A classloader and rename contract tests, and Path resolution docs.
-- **[Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Switchyard?style=flat&color=gold)](https://github.com/NVIDIA-NeMo/Switchyard) - Loopback by default, upstream error redaction in logs, reasoning replay per client, and response cost headers forwarded upstream.
-- **[SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/SkillEvaluator?style=flat&color=gold)](https://github.com/NVIDIA/SkillEvaluator) - Unprivileged container runtime, pinned dependency verification, and embedding chunk window checks.
-- **[NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Agent-Toolkit?style=flat&color=gold)](https://github.com/NVIDIA/NeMo-Agent-Toolkit) - MLflow telemetry exporter authentication and queue waiters woken on close.
-- **[REA](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - MCP tool discovery batches, clearer Frida ptrace refusals, and connection-loss coverage.
-- **[Brev CLI](https://github.com/brevdev/brev-cli)** [![GitHub stars](https://img.shields.io/github/stars/brevdev/brev-cli?style=flat&color=gold)](https://github.com/brevdev/brev-cli) - Recover SSH config includes scoped to unrelated hosts.
-- **[Apache Druid](https://github.com/apache/druid)** [![GitHub stars](https://img.shields.io/github/stars/apache/druid?style=flat&color=gold)](https://github.com/apache/druid), **[Leaflet](https://github.com/Leaflet/Leaflet)** [![GitHub stars](https://img.shields.io/github/stars/Leaflet/Leaflet?style=flat&color=gold)](https://github.com/Leaflet/Leaflet) and **[Gateway API](https://github.com/kubernetes-sigs/gateway-api)** [![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/gateway-api?style=flat&color=gold)](https://github.com/kubernetes-sigs/gateway-api) - Faster ingestion MapReduce jobs, layer ordering docs, and a ReferenceGrant example fix.
+| | |
+|---|---|
+| **[Spark](https://1xaispark.com/)** | Runs fuel, LPG and distribution businesses day to day: sales, stock, payments, payroll and field teams, on web and mobile. |
+| **[merge-o-matic](https://github.com/deepujain/merge-o-matic)** | Type a GitHub username and get its merged PRs printed as a store receipt. |
+| **[hodl](https://github.com/deepujain/hodl)** | Keeps a Mac awake overnight so coding agents finish their work, then lets it sleep. |
+| **[sip](https://github.com/deepujain/sip)** | A water bottle in the corner of your screen. Fall behind and your Mac takes a water break. |
+| **[whereditgo](https://github.com/deepujain/whereditgo)** | Screenshots land in a little printed pile you can drag around. |
+| **[Casa de Gema](https://github.com/deepujain/casadegema)** | A watercolor hidden-gem garden game in a single HTML file. |
+| **[nvidiagpubeat](https://github.com/eBay/nvidiagpubeat)** | GPU monitoring for the Elastic stack, one of the [community Beats](https://github.com/elastic/beats). |
+
+### 🤖 Open source: agents
+
+**[NemoClaw](https://github.com/NVIDIA/NemoClaw)** ![](https://img.shields.io/github/stars/NVIDIA/NemoClaw?style=social) · 160+ merged. Model recommendations during onboarding, sandbox and gateway lifecycle in OpenShell and Podman, Ollama health checks, OpenTofu provider docs, version pins shipped with each release.
+
+**[OpenClaw](https://github.com/openclaw/openclaw)** ![](https://img.shields.io/github/stars/openclaw/openclaw?style=social) · Postgres migration cut from hours to minutes over a network link, Twilio MMS photos reaching the agent, device-code sign-in, safer compaction of warm CLI sessions.
+
+**[ClawHub](https://github.com/openclaw/clawhub)** ![](https://img.shields.io/github/stars/openclaw/clawhub?style=social) · Per-skill pinning, exact and paged skill search, secrets caught in skill docs, big ClawPack uploads that no longer run out of memory.
+
+**[Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)** ![](https://img.shields.io/github/stars/NVIDIA-NeMo/Switchyard?style=social) · Safe-by-default binding, redacted upstream errors, per-client reasoning replay, cost headers passed through.
+
+**[NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)** ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Agent-Toolkit?style=social) · **[REA](https://github.com/morluto/rea)** ![](https://img.shields.io/github/stars/morluto/rea?style=social) · **[Brev CLI](https://github.com/brevdev/brev-cli)** ![](https://img.shields.io/github/stars/brevdev/brev-cli?style=social) · Telemetry auth, queue shutdown, MCP discovery, Frida errors and SSH config recovery.
+
+### 🔒 Open source: evaluation and skill safety
+
+**[SkillSpector](https://github.com/NVIDIA/SkillSpector)** ![](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=social) · Scans what agent skills really do: plugin hooks, settings that run commands or reroute traffic, hidden bytecode, MCP snapshot diffs, SARIF severities, and fewer false alarms.
+
+**[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** ![](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social) · **[Inspect TS](https://github.com/meridianlabs-ai/ts-mono)** · **[Inspect Petri](https://github.com/meridianlabs-ai/inspect_petri)** ![](https://img.shields.io/github/stars/meridianlabs-ai/inspect_petri?style=social) · Correct token accounting, provider request fixes, task isolation, Windows support, a faster log viewer and judge-override rescoring.
+
+**[SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** ![](https://img.shields.io/github/stars/NVIDIA/SkillEvaluator?style=social) · Unprivileged containers and verified dependencies.
+
+### 📊 Open source: data platforms
+
+**[Apache Superset](https://github.com/apache/superset)** ![](https://img.shields.io/github/stars/apache/superset?style=social) · Dashboard filters and colors that survive reloads, sane bars on log axes, BigInt formatting, chart previews over MCP.
+
+**[Apache Airflow](https://github.com/apache/airflow)** ![](https://img.shields.io/github/stars/apache/airflow?style=social) · Mark-failed on removed tasks, Gantt filters for mapped tasks, clean Dag tags in the API, the password reset CLI.
+
+**[Apache Hadoop](https://github.com/apache/hadoop)** ![](https://img.shields.io/github/stars/apache/hadoop?style=social) · **[Apache Druid](https://github.com/apache/druid)** ![](https://img.shields.io/github/stars/apache/druid?style=social) · DiskBalancer tolerance, DataNode startup, S3A tests, faster ingestion jobs.
+
+<sub>Also a little in [Leaflet](https://github.com/Leaflet/Leaflet) and [Gateway API](https://github.com/kubernetes-sigs/gateway-api).</sub>
