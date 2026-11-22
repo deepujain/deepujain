@@ -1,16 +1,15 @@
 <h2>Deepak Jain (DJ)</h2>
 
 [![X @deepujain](https://img.shields.io/badge/@deepujain-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deepujain)
-[![Spark](https://img.shields.io/badge/1xaispark.com-4F46E5?style=for-the-badge&logo=lightning&logoColor=white)](https://1xaispark.com/)
+[![Spark](https://img.shields.io/badge/Spark-4F46E5?style=for-the-badge&logo=lightning&logoColor=white)](https://1xaispark.com/about)
 [![Merged PRs](https://img.shields.io/badge/merged_PRs-300%2B-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3Adeepujain+is%3Amerged)
 
-Entrepreneur and engineer. These days I live where AI agents meet real systems: the sandboxes they run in, the models they route to, how we evaluate them, and whether the skills we hand them are safe. When something I use is broken, I would rather send the fix than file the bug.
-
+Entrepreneur and engineer. These days I live where AI agents meet real systems: the sandboxes they run in, the models they route to, how we evaluate them, and whether the skills we hand them are safe.
 Say hi on [X](https://x.com/deepujain).
 
 #### Things I make
 
-- **[Spark](https://1xaispark.com/)** - Operations platform for fuel, LPG and distribution businesses: sales, stock, payments, payroll and field teams on web and mobile.
+- **[Spark](https://1xaispark.com/about)** - Operations platform for fuel, LPG and distribution businesses: sales, stock, payments, payroll and field teams on web and mobile.
 - **[merge-o-matic](https://github.com/deepujain/merge-o-matic)** [![GitHub stars](https://img.shields.io/github/stars/deepujain/merge-o-matic?style=flat&color=gold)](https://github.com/deepujain/merge-o-matic) - Your merged pull requests, printed as a store receipt.
 - **[hodl](https://github.com/deepujain/hodl)** [![GitHub stars](https://img.shields.io/github/stars/deepujain/hodl?style=flat&color=gold)](https://github.com/deepujain/hodl) - Keeps your Mac awake overnight so coding agents keep working, lid open or closed, and lets go when they finish.
 - **[sip](https://github.com/deepujain/sip)** [![GitHub stars](https://img.shields.io/github/stars/deepujain/sip?style=flat&color=gold)](https://github.com/deepujain/sip) - Finish your water bottle on time, or your Mac takes a water break.
