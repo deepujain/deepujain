@@ -10,7 +10,7 @@ Say hi on [X](https://x.com/deepujain).
 
 #### Things I make
 
-- **[Warp Speed](https://github.com/deepujain/dj-open-source-tracker)** - Agentic engineering workspace that takes a pull request from issue to merge: repair, local checks, CI, review and shepherding, across many open source projects at once. It is behind the 300+ PRs I've had merged.
+- [**Warp Speed**](https://github.com/deepujain/dj-open-source-tracker) - A software factory for open source, powered by AI agents and grounded in software engineering fundamentals. It takes work from issue triage through implementation, testing, CI, and review across multiple projects. It’s helped me land 300+ PRs.
 - **[Spark](https://1xaispark.com/about)** - Operations platform for fuel, LPG and distribution businesses: sales, stock, payments, payroll and field teams on web and mobile.
 - **[merge-o-matic](https://github.com/deepujain/merge-o-matic)** [![GitHub stars](https://img.shields.io/github/stars/deepujain/merge-o-matic?style=flat&color=gold)](https://github.com/deepujain/merge-o-matic) - Your merged pull requests, printed as a store receipt.
 - **[hodl](https://github.com/deepujain/hodl)** [![GitHub stars](https://img.shields.io/github/stars/deepujain/hodl?style=flat&color=gold)](https://github.com/deepujain/hodl) - Keeps your Mac awake overnight so coding agents keep working, lid open or closed, and lets go when they finish.
