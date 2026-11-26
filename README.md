@@ -48,7 +48,7 @@ Say hi on [X](https://x.com/deepujain).
 
 Agent-assisted mathematical research and visual explanations, with reproducible code and explicit proofs or verification.
 
-- 🔬 **[No three in a line](https://github.com/deepujain/no-three-in-line-research)** — **Research in progress.** How many points fit on a square grid without any three sharing a straight line? An autonomous research team tests competing approaches, checks proofs, and records experiments toward improving a verified 156-point baseline on a 79 × 79 grid. [Research visualization](https://deepujain.github.io/no-three-in-line-research/).
+- 🔬 **[No three in a line](https://github.com/deepujain/no-three-in-line-research)** - **Research in progress.** How many points fit on a square grid without any three sharing a straight line? An autonomous research team tests competing approaches, checks proofs, and records experiments toward improving a verified 156-point baseline on a 79 × 79 grid. [Research visualization](https://deepujain.github.io/no-three-in-line-research/).
 
 - 🔺 **[Ramsey’s six-person party problem](https://deepujain.github.io/ramsey-six-person-party-problem/)** - How many people guarantee three who all know each other, or three who are all strangers? Six. See why five can avoid both and six cannot. [Code and proof](https://github.com/deepujain/ramsey-six-person-party-problem).
 - ♟️ **[The missing-corners domino problem](https://deepujain.github.io/missing-corners-domino-problem/)** - Can dominoes cover a chessboard with two opposite corners removed? No. Every domino covers one dark and one light square, but the board has two extra light squares. [Code and proof](https://github.com/deepujain/missing-corners-domino-problem).
